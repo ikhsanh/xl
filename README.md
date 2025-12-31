@@ -24,11 +24,11 @@ git clone https://github.com/ikhsanh/xl
 ```
 4. Open the folder
 ```
-cd me-cli-sunset
+cd xl
 ```
 5. Setup
 ```
-bash setup.sh
+chmod +x setup.sh && bash setup.sh
 ```
 6. Run the script
 ```
